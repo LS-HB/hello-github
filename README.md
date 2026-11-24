@@ -17,4 +17,8 @@ SSH 连通性测试仓库 —— 用于验证 `clone → commit → push` 全链
 | 公钥上传 GitHub | OK |
 | `ssh -T git@github.com` | OK |
 | 本地提交 | OK |
-| 远程推送 | 待验证 |
+| 远程推送 | OK |
+| 二次提交推送 | OK |
+| 全新克隆 | OK |
+
+链路打通时间：2026-11-24
